@@ -16,3 +16,4 @@ rootProject.name = "ComposePractice"
 include ':app'
 include ':component-text'
 include ':component-button'
+include ':component-modifier'
